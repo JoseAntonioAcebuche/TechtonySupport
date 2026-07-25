@@ -147,7 +147,7 @@ Currently developing my expertise toward **System Administration, Infrastructure
 **Eteleconnect**  
 📍 Philippines | **2026 – Present**
 
-- Provide IT infrastructure and technical support for a business environment supporting **500+ users** across daily operations.
+- Provide IT infrastructure and technical support for a business environment supporting **200+ users** across daily operations.
 - Perform **Active Directory user administration and user lifecycle management**, including user account creation, profile creation and configuration, account management, password resets, account unlocks, access provisioning, and account deactivation or deletion.
 - Support **user onboarding and offboarding**, including account provisioning, access changes, and account deactivation based on operational requirements.
 - Administer and troubleshoot **Windows workstations and user environments**, resolving hardware, software, access, authentication, and application-related incidents.
