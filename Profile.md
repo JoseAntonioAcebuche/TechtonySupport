@@ -111,7 +111,7 @@ Currently developing my expertise toward **System Administration, Infrastructure
 
 ## 🏢 IT Specialist – Systems & Infrastructure
 **Chase Technologies Corporation – Alabang Town Center**  
-📍 Alabang, Muntinlupa | **Jan 2024 – Present**
+📍 Alabang, Muntinlupa | **Jan 2024 – May 2026**
 
 - Maintain **mission-critical IT infrastructure** supporting a high-volume commercial facility and multiple operational zones.
 - Administer and troubleshoot **desktops, laptops, Industrial PCs, and servers** in a Windows Server environment, supporting continuous 24/7 retail operations.
@@ -143,7 +143,7 @@ Currently developing my expertise toward **System Administration, Infrastructure
 
 ---
 
-## 🖥️ IT Specialist / NOC Operations
+## 🖥️ IT Specialist – IT Support, Systems & NOC Operations
 **Eteleconnect**  
 📍 Philippines | **2026 – Present**
 
