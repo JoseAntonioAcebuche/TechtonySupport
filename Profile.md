@@ -115,7 +115,7 @@ Currently developing my expertise toward **System Administration, Infrastructure
 
 - Maintain **mission-critical IT infrastructure** supporting a high-volume commercial facility and multiple operational zones.
 - Administer and troubleshoot **desktops, laptops, Industrial PCs, and servers** in a Windows Server environment, supporting continuous 24/7 retail operations.
-- Manage and support **30+ end devices**, including POS terminals, kiosks, RFID/NFC/QR readers, and payment processing devices to ensure reliable transaction flow and system uptime.
+- Manage and support **100+ end devices**, including POS terminals, kiosks, RFID/NFC/QR readers, and payment processing devices to ensure reliable transaction flow and system uptime.
 - Perform **Microsoft SQL Server administration**, including database backup and restore, DBCC integrity checks, and transaction log monitoring to maintain data reliability and business continuity.
 - Provide **Tier 2/3 technical support** for hardware, software, application, and network-related incidents across multiple operational zones.
 - Troubleshoot and maintain **LAN/WAN infrastructure**, including TCP/IP and DNS connectivity, supporting servers, POS systems, and networked devices.
